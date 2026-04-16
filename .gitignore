@@ -1,0 +1,24 @@
+# Environment files (important for security)
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Dependency folders (if added later)
+/vendor/
+/node_modules/
+
+# XAMPP specific (optional)
+xampp/
+
+# Temporary files
+*.tmp
+*.bak
