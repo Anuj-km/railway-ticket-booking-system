@@ -39,6 +39,14 @@ It supports booking, cancellation, and viewing ticket status with basic allocati
 
 ---
 
+## 🧠 Concept Used
+- Priority Scheduling
+- First Come First Serve (FCFS)
+- Waiting List Management
+
+
+---
+
 ## 📌 Future Improvements
 - Better UI design
 - User login system
